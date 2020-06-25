@@ -1,6 +1,6 @@
 Copyright 2016 - The CyanogenMod Project
-
 Copyright 2017 - The LineageOS Project
+Copyright 2020 - Paranoid Android
 
 Device configuration for Samsung Galaxy S5 Korea variants (SM-G900K, SM-G900L, SM-G900S).
 ========================================
